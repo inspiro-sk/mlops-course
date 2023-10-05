@@ -1,0 +1,1 @@
+{"quality": ["ExterQual", "ExterCond", "BsmtQual", "BsmtCond", "HeatingQC", "KitchenQual", "FireplaceQu", "GarageQual", "GarageCond"], "exposure": ["BsmtExposure"], "finish": ["BsmtFinType1", "BsmtFinType2"], "garage": ["GarageFinish"], "fence": ["Fence"]}

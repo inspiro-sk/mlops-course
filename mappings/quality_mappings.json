@@ -1,0 +1,1 @@
+{"quality": {"Po": 1, "Fa": 2, "TA": 3, "Gd": 4, "Ex": 5, "Missing": 0, "NA": 0}, "exposure": {"No": 1, "Mn": 2, "Av": 3, "Gd": 4}, "finish": {"Missing": 0, "NA": 0, "Unf": 1, "LwQ": 2, "Rec": 3, "BLQ": 4, "ALQ": 5, "GLQ": 6}, "garage": {"Missing": 0, "NA": 0, "Unf": 1, "RFn": 2, "Fin": 3}, "fence": {"Missing": 0, "NA": 0, "MnWw": 1, "GdWo": 2, "MnPrv": 3, "GdPrv": 4}}

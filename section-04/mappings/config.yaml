@@ -1,0 +1,47 @@
+CATEGORICAL_VARS_WITH_NA_MISSING: ['FireplaceQu']
+CATEGORICAL_VARS_WITH_NA_FREQUENT: ['BsmtQual', 'BsmtExposure', 'BsmtFinType1', 'GarageFinish']
+TEMPORAL_FEATURES:
+- YearRemodAdd
+CATEGORICAL_FEATURES:
+- MSSubClass
+- MSZoning
+- LotShape
+- LotConfig
+- Neighborhood
+- BldgType
+- RoofStyle
+- Exterior1st
+- ExterQual
+- Foundation
+- BsmtQual
+- BsmtExposure
+- BsmtFinType1
+- HeatingQC
+- CentralAir
+- KitchenQual
+- Functional
+- FireplaceQu
+- GarageFinish
+- PavedDrive
+- SaleCondition
+FEATURES_TO_DROP:
+- Id
+- SalePrice
+NUMERIC_FEATURES:
+- LotArea
+- OverallQual
+- OverallCond
+- YearRemodAdd
+- 1stFlrSF
+- GrLivArea
+- BsmtFullBath
+- FullBath
+- HalfBath
+- TotRmsAbvGrd
+- GarageCars
+- WoodDeckSF
+- ScreenPorch
+- YrSold
+SEED: 1
+TARGET: SalePrice
+DATASET_PATH: 'datasets/house_prices_train.csv'
